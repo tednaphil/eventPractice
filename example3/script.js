@@ -4,7 +4,8 @@ var parent = document.querySelector('.parent');
 addNewButton.addEventListener('click', createButton);
 parent.addEventListener('click', function(event) {
   if(event.target.className === 'click-me') {
-    alert('You clicked new me!');
+    // do your action on your 'button' or whatever
+    // it is you're listening for
   }
 })
 

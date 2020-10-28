@@ -8,5 +8,5 @@ This repo serves as the example code for
 
 ## Getting Started
 Clone the repository: `git clone`  
-Move into the project: `cd eventBubbling`  
+Move into the project: `cd eventPractice`  
 Open the first example: `open example1/index.html`  
